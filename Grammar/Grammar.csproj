@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DelegateTest.cs" />
+    <Compile Include="GenericTest.cs" />
+    <Compile Include="LammbdaTest.cs" />
+    <Compile Include="ListTest.cs" />
+    <Compile Include="People.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestEnumber.cs" />
